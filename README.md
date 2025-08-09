@@ -40,8 +40,7 @@ The goal of this project is to design and develop an interactive Power BI dashbo
 - On-time deliveries dominate sales, reinforcing the role of efficient logistics in driving customer satisfaction and repeat purchases.
 
 ## Conclusion
-To maximize revenue growth, the business should focus on technology product promotion targeting middle-income adult customers during the year-end peak season. Marketing strategies can leverage limited or medium-level discounts to boost sales without significantly affecting margins.
-Additionally, improving delivery performance to reduce late shipments could enhance customer satisfaction and retention. A combination of targeted seasonal campaigns, operational efficiency improvements, and customer-segment-focused marketing will help sustain and grow sales performance.
+To maximize revenue growth, the business should focus on technology product promotion targeting middle-income adult customers during the year-end peak season. Marketing strategies can leverage limited or medium-level discounts to boost sales without significantly affecting margins. Additionally, improving delivery performance to reduce late shipments could enhance customer satisfaction and retention. A combination of targeted seasonal campaigns, operational efficiency improvements, and customer-segment-focused marketing will help sustain and grow sales performance.
 
 
 
