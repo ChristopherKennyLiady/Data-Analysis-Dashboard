@@ -18,3 +18,5 @@ The goal of this project is to design and develop an interactive Power BI dashbo
 - What is the percentage of orders delivered on-time vs early vs late?
 - How do sales differ across customer segments?
 - What are the key sales trends over time?
+
+## Dashboard Interaction
